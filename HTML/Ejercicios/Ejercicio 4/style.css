@@ -1,0 +1,7 @@
+#elemento-1{
+    color: red;
+}
+
+#primera-lista > #elemento-1{
+    font-size: 2rem;
+}
